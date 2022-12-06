@@ -6,7 +6,7 @@
  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <br/>
 
-##주로 자바스크립트와 F/E 관련 내용을 다룹니다만, 풀스택 엔지니어를 꿈꾸고 있어 B/E 관련 내용도 작성합니다.
+## 주로 자바스크립트와 F/E 관련 내용을 다룹니다만, 풀스택 엔지니어를 꿈꾸고 있어 B/E 관련 내용도 작성합니다.
 
 
 
